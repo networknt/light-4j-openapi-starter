@@ -6,7 +6,7 @@
 
     <groupId>com.networknt</groupId>
     <artifactId>light-4j-rest-openapi-starter</artifactId>
-    <version>1.5.32</version>
+    <version>1.5.33</version>
     <name>light-4j-rest-openapi-starter</name>
 
     <properties>
